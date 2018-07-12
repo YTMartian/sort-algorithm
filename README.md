@@ -7,7 +7,7 @@
 - Microsoft Visual Studio Community 2017
 
 ## 实现类容
-- 八个排序算法的可视化过程（QUICK_SORT、BUBBLE_SORT、INSERT_SORT、HEAP_SORT、SELECTION_SORT、MERGE_SORT、SHELL_SORT、RADIX_SORT）
+- 八个排序算法的可视化过程（QUICK_SORT、BUBBLE_SORT、INSERT_SORT、HEAP_SORT、SELECTION_SORT、MERGE_SORT、SHELL_SORT、RADIX_SORT）参考[https://www.geeksforgeeks.org/sorting-algorithms/](https://www.geeksforgeeks.org/sorting-algorithms/)
 
 ## 不足
 
