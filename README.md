@@ -11,4 +11,4 @@
 - QUICK_SORT, BUBBLE_SORT, INSERT_SORT, HEAP_SORT, SELECTION_SORT, MERGE_SORT, SHELL_SORT, RADIX_SORT [https://www.geeksforgeeks.org/sorting-algorithms/](https://www.geeksforgeeks.org/sorting-algorithms/)
 
 ## DEMO
-[http://www.potatochip.cn/sort-algorithm.gif](http://www.potatochip.cn/sort-algorithm.gif)
+![http://www.potatochip.cn/sort-algorithm.gif](http://www.potatochip.cn/sort-algorithm.gif)
